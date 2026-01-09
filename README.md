@@ -13,12 +13,3 @@
 </div>
 
 </div>
-
----
-## About Me
-
-<span style="color:#C0FFEE;">
-
-  Jeremy Yao
-  
-</span>

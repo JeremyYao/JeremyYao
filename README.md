@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @JeremyYao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- Banner -->
+<div align="center">
 
-<!---
-JeremyYao/JeremyYao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Jeremy Yao
+
+<div>
+  
+[![Website](https://img.shields.io/badge/-Personal%20Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://jeremyyao.pages.dev)
+
+</div>
